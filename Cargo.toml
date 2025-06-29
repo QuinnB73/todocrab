@@ -2,6 +2,9 @@
 name = "todocrab"
 version = "0.1.0"
 edition = "2021"
+description = "A simple todo list TUI"
+license = "GPL-3.0-only"
+repository = "https://github.com/QuinnB73/todocrab"
 
 [dependencies]
 crossterm = "0.29.0"
